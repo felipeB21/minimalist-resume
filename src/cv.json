@@ -116,6 +116,13 @@
       "description": "InsideIn is a web application built with Next.js and Tailwind, featuring content sourced from the MovieDB API.",
       "madeWith": ["Next.js", "Tailwind", "MovieDB"],
       "url": "https://github.com/felipeB21/inside-in"
+    },
+    {
+      "name": "MiColectivo",
+      "beta": true,
+      "description": "Simply input your destination, and let the app do the rest, providing you with the most efficient bus routes to get you there.",
+      "madeWith": ["Next.js", "Node.js", "Tailwind", "MySQL"],
+      "url": "https://github.com/felipeB21/MiColectivo"
     }
   ]
 }

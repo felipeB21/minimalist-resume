@@ -23,7 +23,7 @@ export default function WeatherApi() {
   const [weather, setWeather] = useState<Weather | null>(null);
   const [loading, setLoading] = useState(true);
   const URL =
-    "http://api.weatherapi.com/v1/current.json?key=8922b8fb33474200b39232711243101&q=Buenos Aires&aqi=no";
+    "https://api.weatherapi.com/v1/current.json?key=8922b8fb33474200b39232711243101&q=Buenos Aires&aqi=no";
   useEffect(() => {
     const weatherApi = async () => {
       const response = await fetch(URL);

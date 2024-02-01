@@ -95,6 +95,14 @@
         "Static Generation"
       ]
     },
+     {
+      "name": "C#",
+      "level": "Beginner",
+      "keywords": [
+        "Video Game Development",
+        "IA"
+      ]
+    },
     {
       "name": "React",
       "level": "Advance",

@@ -5,13 +5,11 @@
 html {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
     Liberation Mono, Courier New, monospace;
-  background-color: rgb(41, 41, 41);
-  color: white;
   letter-spacing: -0.025rem;
 }
 
 p {
-  color: rgb(207, 207, 207);
+  color: rgb(109, 109, 109);
 }
 
 h1,

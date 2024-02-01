@@ -55,7 +55,22 @@
       ]
     },
     {
+      "name": "Node",
+      "level": "Advance",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
       "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": ["Databases", "SQL", "Data Management", "Backend"]
+    },
+    {
+      "name": "GraphQL",
       "level": "Intermediate",
       "keywords": ["Databases", "SQL", "Data Management", "Backend"]
     },
